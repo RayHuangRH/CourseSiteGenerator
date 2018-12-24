@@ -1,0 +1,168 @@
+
+{
+    "subject":"ESE",
+    "number":"219",
+    "semester":"Fall",
+    "year":"2019",
+    "title":"Mexico",
+    "export":".\\export\\ESE_219_Fall_2019\\public_html",
+    "logos":{
+        "favicon":"SBUShield.JPG",
+        "navbar":"SBUDarkRedShieldLogo.JPG",
+        "bottom_left":"SBUCSLogo.JPG",
+        "bottom_right":"SBUWhiteShieldLogo.JPG"
+    },
+    "instructor":{
+        "name":"heresjohnny",
+        "link":"http://www.cs.stonybrook.edu/~richard",
+        "email":"richard@cs.stonybrook.edu",
+        "room":"New CS 216",
+        "hours":"[\n    { \"day\": \"Monday\",     \"time\": \"1:00pm-2:20pm\"    },\n    { \"day\": \"Wednesday\",   \"time\": \"2pm-3pm\"       },\n    { \"day\": \"Thursday\",      \"time\": \"1:00pm-2:20pm\"    }\n]"
+    },
+    "pages":{
+        "home":"true",
+        "syllabus":"true",
+        "schedule":"true",
+        "HWs":"false"
+    },
+    "description":"Development of the basic concepts and techniques from Computer Science I and II into practical programming skills that include a systematic approach to program design, coding, testing, and debugging. Application of these skills to the construction of robust programs of thousands of lines of source code. Use of programming environments and tools to aid in the software development process.",
+    "topics":"[\n    \"Programming style and its impact on readability, reliability, maintainability, and portability.\",\n    \"Decomposing problems into modular designs with simple, narrow interfaces.\",\n    \"Determining the proper objects in an object-oriented design.\",\n    \"Selecting appropriate algorithms and data structures.\",\n    \"Reusing code, including external libraries designed and built by others.\",\n    \"Learning systematic testing and debugging techniques.\",\n    \"Maintaining a repository of code during incremental development of a software project.\",\n    \"Learning how to use threads to synchronize several tasks.\",\n    \"Improving program performance.\",\n    \"Making effective use of a programming environment, including: Syntax-directed editor Build tools Debugging tools Testing tools Source code management tools Profiling tools\"\n]",
+    "prerequisites":"You must have taken CSE 214 and received a grade of 'C' or better in order to take this course. In more detail, you are expected to have the following knowledge and skills at the beginning of the course: Ability to write programs of a few hundred lines of code in the Java programming language.Understanding of fundamental data structures, including lists, binary trees, hash tables, and graphs, and the ability to employ these data structures in the form provided by the standard Java API.Ability to construct simple command-based user interfaces, and to use files for the input and output of data. Mastery of basic mathematical and geometric reasoning using pre-calculus concepts.",
+    "outcomes":"[\n    \"Ability to systematically design, code, debug, and test programs of about two thousand lines of code.\",\n    \"Sensitivity to the issues of programming style and modularity and their relationship to the construction and evolution of robust software.\",\n    \"Knowledge of basic ideas and techniques of object-oriented programming.\",\n    \"Familiarity with the capabilities and use of programming tools such as syntax-directed editors, debuggers, execution profilers, documentation generators, and revison-control systems.\"\n]",
+    "textbooks":"[\n    {\n        \"title\": \"Head First Object Oriented Analysis and Design\",\n        \"link\": \"http://proquestcombo.safaribooksonline.com.proxy.library.stonybrook.edu/0596008678\",\n        \"photo\": \"./images/HeadFirstOOAAD.jpg\",\n        \"authors\": [\n            \"Brett McLaughlin\", \"Gary Pollice\", \"David West\"\n        ],\n        \"publisher\": \"O'Reilly Media, Inc.\",\n        \"year\": \"2006\"\n    },\n{\n    \"title\": \"Head First Design Patterns\",\n    \"link\": \"http://proquestcombo.safaribooksonline.com.proxy.library.stonybrook.edu/0596007124\",\n    \"photo\": \"./images/HeadFirstDesignPatterns.gif\",\n    \"authors\": [\n        \"Eric T Freeman\", \"Elisabeth Robson\", \"Bert Bates\", \"Kathy Sierra\"\n    ],\n    \"publisher\": \"O'Reilly Media, Inc.\",\n    \"year\": \"2004\"\n    }\n]",
+    "gradedComponents":"[\n    {\n        \"name\": \"Recitations\",\n        \"description\": \"Students will attend weekly recitations that will introduce use of essential development tools and will require completion of an exercise for submission.\",\n        \"weight\": \"10\"\n    },\n    {\n        \"name\": \"Homework Assignments\",\n        \"description\": \"The assignments will develop a students ability to design and implement object-oriented systems. Grading will be based on functionality and proper use specific tools. Submitted code that does not compile will receive no credit.     Late submissions will NOT be accepted. Programming assignments will be handed in electronically, instructions for which will be provided early in the semester.\",\n        \"weight\": \"20\"\n    },\n    {\n        \"name\": \"Final Project\",\n        \"description\": \"The assignments will build to the final project, which will be a fully functioning application.\",\n        \"weight\": \"20\"\n    },\n    {\n        \"name\": \"Midterm Exam\",\n        \"description\": \"The midterm will cover all lecture, quizzes, and homework materials covered during the first 1/2 of the semester.\",\n        \"weight\": \"20\"\n    },\n    {\n        \"name\": \"Final Exam\",\n        \"description\": \"The final will be cumulative and will cover all lecture, reading, and homework material.\",\n        \"weight\": \"30\"\n    }\n]",
+    "gradingNote":"Note CEAS Policy: The Pass/No Credit (P/NC) option is not available for this course.",
+    "academicDishonesty":"You may discuss the homework in this course with anyone you like, however each student's submissionmust be ones own work. The College of Engineering and Applied Sciences regards academic dishonesty as a very serious matter, and provides for substantial penalties in such cases. For more information, obtain a copy of the CEAS guidelines on academic dishonesty from the CEAS office. Be advised that any evidence of academic dishonesty will be treated with utmost seriousness. If you have a situation that may tempt you into doing something academically dishonest, resist the urge and speak with your instructor during office hours for help.",
+    "specialAssistance":"EEEEEEEEEEE If you have a physical, psychological, medical or learning disability that may impact on your ability to carry out assigned course work, I would urge that you contact the staff at the Student Accessibility Support Center (SASC) in the ECC building, 632-6748. SASC will review your concerns and determine with you what accommodations are necessary and appropriate. All information and documentation of disability are confidential.",
+    "lectures":[
+        {
+            "section":"L01",
+            "days":"Tuesdays and Thursdays",
+            "time":"10:00am-11:20pm",
+            "room":"Humanities 1006"
+        }
+    ],
+    "recitations":[
+        {
+            "section":"R06",
+            "day_time":"Mondays, 10:00am-10:53am",
+            "location":"New CS 115",
+            "ta_1":"Lei Song",
+            "ta_2":"Qihong Jiang"
+        },
+        {
+            "section":"R07",
+            "day_time":"Wednesdays, 10:00am-10:53am",
+            "location":"New CS 115",
+            "ta_1":"Mankirat Gulati",
+            "ta_2":"Sammi Wu Leung"
+        },
+        {
+            "section":"R08",
+            "day_time":"Wednesdays, 2:30pm-3:23pm",
+            "location":"New CS 115",
+            "ta_1":"Sammi Wu Leung",
+            "ta_2":"Qihong Jiang"
+        }
+    ],
+    "labs":[
+        {
+            "section":"L02",
+            "day_time":"Tuesdays and Thursdays, 1:00pm-2:00pm",
+            "location":"Old CS 2115",
+            "ta_1":"?",
+            "ta_2":"?"
+        },
+        {
+            "section":"L03",
+            "day_time":"Tuesdays and Thursdays, 4:00pm-5:20pm",
+            "location":"New CS 115",
+            "ta_1":"?",
+            "ta_2":"?"
+        }
+    ],
+    "startHour":"9",
+    "endHour":"20",
+    "grad_tas":[
+        {
+            "name":"Mike",
+            "email":"mike@stonybrook.edu",
+            "type":"Graduate"
+        },
+        {
+            "name":"Raymond Huang",
+            "email":"raymond@stonybrook.edu",
+            "type":"Graduate"
+        }
+    ],
+    "undergrad_tas":[
+        {
+            "name":"Bob",
+            "email":"bob@stonybrook.edu",
+            "type":"Undergraduate"
+        },
+        {
+            "name":"Joe",
+            "email":"joe@stonybrook.edu",
+            "type":"Undergraduate"
+        }
+    ],
+    "officeHours":[
+        {
+            "time":"2_00pm",
+            "day":"TUESDAY",
+            "name":"Joe"
+        },
+        {
+            "time":"2_00pm",
+            "day":"TUESDAY",
+            "name":"Raymond Huang"
+        }
+    ],
+    "startingDate":"2018-08-27",
+    "endingDate":"2018-12-21",
+    "schedule":[
+        {
+            "type":"Holiday",
+            "date":"09/05/2018",
+            "title":"Labor Day",
+            "topic":"",
+            "link":"none"
+        },
+        {
+            "type":"Lecture",
+            "date":"09/06/2018",
+            "title":"Lecture 1",
+            "topic":"Introduction",
+            "link":"intro.com"
+        },
+        {
+            "type":"Lecture",
+            "date":"09/11/2018",
+            "title":"Lecture 2",
+            "topic":"Graphical User Interfaces",
+            "link":"lecture.com"
+        },
+        {
+            "type":"HW",
+            "date":"09/18/2018",
+            "title":"HW 3",
+            "topic":"UML",
+            "link":"hw.com"
+        },
+        {
+            "type":"HW",
+            "date":"09/19/2018",
+            "title":"adf",
+            "topic":"asdf",
+            "link":"asdf"
+        },
+        {
+            "type":"Lecture",
+            "date":"12/04/2018",
+            "title":"ZXC",
+            "topic":"ZXC",
+            "link":"ZXC"
+        }
+    ]
+}

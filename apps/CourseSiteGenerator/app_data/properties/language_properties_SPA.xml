@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    This XML file provides all the text to be used when the application
+    is to be displayed in English.
+-->
+<properties>
+    <property_list>
+
+        <!-- ENGLISH LANGUAGE SETTINGS FOR DESKTOP JAVA FRAMEWORK CONTROLS -->
+
+        <!-- WELCOME DIALOG TEXT -->
+        <property name="WELCOME_DIALOG_TITLE"               value="Bienvenido a las horas de oficina"></property>
+        <property name="WELCOME_DIALOG_RECENT_WORK_LABEL"   value="Trabajo reciente"></property>
+        <property name="WELCOME_DIALOG_NEW_BUTTON_TEXT"  value="Crear nuevas horas de oficina"></property>
+
+        <!-- GENERIC APP ERROR MESSAGES -->
+        <property name="APP_ERROR_TITLE"            value="Error de la aplicación"></property>
+        <property name="APP_ERROR_CONTENT"          value="Un error ocurrido en la aplicación"></property>
+
+        <!-- PROPERTIES ERROR MESSAGES -->
+        <property name="PROPERTIES_ERROR_TITLE"     value="Error de archivo de propiedades"></property>
+        <property name="PROPERTIES_ERROR_CONTENT"   value="Hubo un error al cargar un archivo de propiedades"></property>
+
+        <!-- FILE TOOLBAR TOOLTIPS -->
+        <property name="NEW_BUTTON_TOOLTIP"         value="Nuevo horario de oficina"></property>
+        <property name="LOAD_BUTTON_TOOLTIP"        value="Cargar horas de oficina"></property>
+        <property name="CLOSE_BUTTON_TOOLTIP"       value="Cerrar horas de oficina"></property>
+        <property name="SAVE_BUTTON_TOOLTIP"        value="Ahorre horas de oficina"></property>
+        <property name="EXPORT_BUTTON_TOOLTIP"      value="Horas de oficina de exportación"></property>
+        <property name="EXIT_BUTTON_TOOLTIP"        value="Salida"></property>
+
+        <!-- CLIPBOARD TOOLBAR TOOLTIPS -->
+        <property name="CUT_BUTTON_TOOLTIP"         value="Cortar"></property>
+        <property name="COPY_BUTTON_TOOLTIP"        value="Dupdo"></property>
+        <property name="PASTE_BUTTON_TOOLTIP"       value="Pegar"></property>
+
+        <!-- UNDO TOOLBAR TOOLTIPS -->
+        <property name="UNDO_BUTTON_TOOLTIP"        value="Deshacer"></property>
+        <property name="REDO_BUTTON_TOOLTIP"        value="Rehacer"></property>
+
+        <!-- HELP TOOLBAR TOOLTIPS -->
+        <property name="HELP_BUTTON_TOOLTIP"        value="Ayuda"></property>
+        <property name="LANGUAGE_BUTTON_TOOLTIP"    value="Cambiar idioma"></property>
+        <property name="ABOUT_BUTTON_TOOLTIP"       value="Acerca de"></property>
+
+        <!-- NEW FEEDBACK DIALOGS -->	
+        <property name="NEW_SUCCESS_TITLE"      value="Nuevo completo"></property>
+        <property name="NEW_SUCCESS_CONTENT"	value="Trabajo creado pero aún no guardado"></property>
+        <property name="NEW_ERROR_TITLE"        value="Advertencia: error"></property>
+        <property name="NEW_ERROR_CONTENT"      value="Se produjo un error al crear un nuevo trabajo."></property>
+
+        <!-- LOAD FEEDBACK DIALOGS -->
+        <property name="LOAD_WORK_TITLE"        value="Cargar trabajo"></property>
+        <property name="LOAD_IMAGE_TITLE"        value="Cargar imagen"></property>
+        <property name="LOAD_SUCCESS_TITLE"     value="Carga completa"></property>
+        <property name="LOAD_SUCCESS_CONTENT"   value="El archivo se cargó con éxito y ahora se puede editar."></property>
+        <property name="LOAD_ERROR_TITLE"       value="Error de carga"></property>        
+        <property name="LOAD_ERROR_CONTENT"     value="Cargando ha fallado Es probable que haya un problema de formato de archivo."></property>
+
+        <!-- SAVE FEEDBACK DIALOGS -->
+        <property name="SAVE_WORK_TITLE"        value="Ahorre trabajo"></property>
+        <property name="SAVE_SUCCESS_TITLE"     value="Guardar completo"></property>
+        <property name="SAVE_SUCCESS_CONTENT"   value="El archivo está guardado"></property>
+        <property name="SAVE_ERROR_TITLE"       value="Guardar error"></property>
+        <property name="SAVE_ERROR_CONTENT"     value="El ahorro ha fallado. Probablemente debido a un problema de acceso a archivos."></property>
+        <property name="SAVE_VERIFY_TITLE"	value="¿Guardar trabajo no guardado?"></property>
+        <property name="SAVE_VERIFY_CONTENT"	value="¿Le gustaría guardar su trabajo no guardado primero?"></property>
+
+        <!-- ABOUT DIALOG -->
+        <property name="ABOUT_TITLE"            value="Acerca de OH"></property>
+        <property name="ABOUT_CONTENT"          value="OH, el Gerente de Horas de Oficina - Empresas de Depuración - © 2018"></property>
+
+        
+        <!-- ENGLISH LANGUAGE SETTINGS SPECIFICALLY FOR TDLM CONTROLS -->
+        
+        <!-- TEXT FOR ALL EXPAND, ADD AND REMOVE BUTTONS --> 
+        <property name="SI_OFFICE_HOURS_EXPAND_TEXT"                             value="+"></property>
+        <property name="SY_DESCRIPTION_EXPAND_TEXT"                             value="+"></property>
+        <property name="SY_TOPICS_EXPAND_TEXT"                             value="+"></property>
+        <property name="SY_PREREQUISITES_EXPAND_TEXT"                             value="+"></property>
+        <property name="SY_OUTCOMES_EXPAND_TEXT"                             value="+"></property>
+        <property name="SY_TEXTBOOKS_EXPAND_TEXT"                             value="+"></property>
+        <property name="SY_COMPONENTS_EXPAND_TEXT"                             value="+"></property>
+        <property name="SY_NOTE_EXPAND_TEXT"                             value="+"></property>
+        <property name="SY_DISHONESTY_EXPAND_TEXT"                             value="+"></property>
+        <property name="SY_ASSISTANCE_EXPAND_TEXT"                             value="+"></property>
+        <property name="MT_LECTURES_ADD_TEXT"                             value="+"></property>
+        <property name="MT_LECTURES_REMOVE_TEXT"                             value="-"></property>
+        <property name="MT_RECITATION_ADD_TEXT"                             value="+"></property>
+        <property name="MT_RECITATION_REMOVE_TEXT"                             value="-"></property>
+        <property name="MT_LAB_ADD_TEXT"                             value="+"></property>
+        <property name="MT_LAB_REMOVE_TEXT"                             value="-"></property>
+        <property name="OH_TAS_REMOVE_TEXT"                             value="-"></property>
+        <property name="SC_SCHEDULE_REMOVE_TEXT"                             value="-"></property>
+         
+        <!-- TEXT FOR SITE TAB --> 
+        <property name="SI_BANNER_LABEL_TEXT"                             value="Bandera "></property>
+        <property name="SI_SUBJECT_LABEL_TEXT"                             value="Tema: "></property>
+        <property name="SI_NUMBER_LABEL_TEXT"                             value="Número: "></property>
+        <property name="SI_SEMESTER_LABEL_TEXT"                             value="Semestre: "></property>
+        <property name="SI_YEAR_LABEL_TEXT"                             value="Año: "></property>
+        <property name="SI_TITLE_LABEL_TEXT"                             value="Título: "></property>
+        <property name="SI_EXPORT_LABEL_TEXT"                             value="Exportar Dir: "></property>
+        <property name="SI_EXPORT_TEXT_TEXT"                             value=".\export\CSE_219_Fall_2018\public_html"></property>
+        <property name="SI_PAGES_TEXT_TEXT"                             value="Páginas"></property>
+        <property name="SI_HOME_BOX_TEXT"                             value="Casa"></property>
+        <property name="SI_SYLLABUS_BOX_TEXT"                             value="Silaba"></property>
+        <property name="SI_SCHEDULE_BOX_TEXT"                             value="Programar"></property>
+        <property name="SI_HWS_BOX_TEXT"                             value="HWs"></property>
+        <property name="SI_STYLE_LABEL_TEXT"                             value="Estilo"></property>
+        <property name="SI_FAVICON_BUTTON_TEXT"                             value="Favicon:"></property>
+        <property name="SI_NAVBAR_BUTTON_TEXT"                             value="Imagen de la barra de navegación:"></property>
+        <property name="SI_LEFT_BUTTON_TEXT"                             value="Imagen del pie izquierdo: "></property>
+        <property name="SI_RIGHT_BUTTON_TEXT"                             value="Imagen de pie derecho: "></property>
+        <property name="SI_FONT_LABEL_TEXT"                             value="Fuentes y hojas de estilo de colores "></property>
+        <property name="SI_NOTE_LABEL_TEXT"                             value="Nota: las hojas de datos se deben colocar dentro de work / css para que se puedan seleccionar"></property>
+        <property name="SI_INSTRUCTOR_LABEL_TEXT"                             value="Instructor"></property>
+        <property name="SI_NAME_LABEL_TEXT"                             value="Nombre: "></property>
+        <property name="SI_ROOM_LABEL_TEXT"                             value="Habitación: "></property>
+        <property name="SI_EMAIL_LABEL_TEXT"                             value="Email: "></property>
+        <property name="SI_HOME_LABEL_TEXT"                             value="Página de inicio: "></property>
+        <property name="SI_OFFICE_HOURS_LABEL_TEXT"                             value="Horas de oficina"></property>
+        
+        <!-- TEXT FOR SYLLABUS TAB --> 
+        <property name="SY_DESCRIPTION_TEXT"                             value="Descripción:"></property>
+        <property name="SY_TOPICS_TEXT"                             value="Temas:"></property>
+        <property name="SY_PREREQUISITES_TEXT"                             value="Requisitos previos:"></property>
+        <property name="SY_OUTCOMES_TEXT"                             value="Resultados:"></property>
+        <property name="SY_TEXTBOOKS_TEXT"                             value="Libros de texto"></property>
+        <property name="SY_COMPONENTS_TEXT"                             value="Componentes graduados:"></property>
+        <property name="SY_NOTE_TEXT"                             value="Nota de calificación:"></property>
+        <property name="SY_DISHONESTY_TEXT"                             value="Deshonestidad academica:"></property>
+        <property name="SY_ASSISTANCE_TEXT"                             value="Asistencia especial:"></property>
+        
+        <!-- TEXT FOR MEETING TIMES TAB -->
+        <property name="MT_LECTURES_TEXT"                             value="Conferencias"></property>
+        <property name="MT_LECTURES_SECTION_TABLE_COLUMN_TEXT"                             value="Sección"></property>
+        <property name="MT_LECTURES_DAYS_TABLE_COLUMN_TEXT"                             value="Dias"></property>
+        <property name="MT_LECTURES_TIME_TABLE_COLUMN_TEXT"                             value="Hora"></property>
+        <property name="MT_LECTURES_ROOM_TABLE_COLUMN_TEXT"                             value="Habitación"></property>
+        <property name="MT_RECITATION_TEXT"                             value="Recitaciones"></property>
+        <property name="MT_RECITATION_SECTION_TABLE_COLUMN_TEXT"                             value="Sección"></property>
+        <property name="MT_RECITATION_DAYS_TABLE_COLUMN_TEXT"                             value="Dias y tiempo"></property>
+        <property name="MT_RECITATION_ROOM_TABLE_COLUMN_TEXT"                             value="Habitación"></property>
+        <property name="MT_RECITATION_TA1_TABLE_COLUMN_TEXT"                             value="TA1"></property>
+        <property name="MT_RECITATION_TA2_TABLE_COLUMN_TEXT"                             value="TA2"></property>
+        <property name="MT_LAB_TEXT"                             value="Laboratorios"></property>
+        <property name="MT_LAB_SECTION_TABLE_COLUMN_TEXT"                             value="Sección"></property>
+        <property name="MT_LAB_DAYS_TABLE_COLUMN_TEXT"                             value="Dias y tiempo"></property>
+        <property name="MT_LAB_ROOM_TABLE_COLUMN_TEXT"                             value="Habitación"></property>
+        <property name="MT_LAB_TA1_TABLE_COLUMN_TEXT"                             value="TA1"></property>
+        <property name="MT_LAB_TA2_TABLE_COLUMN_TEXT"                             value="TA2"></property>
+      
+        <!-- SITE TEXT FOR COURSE SITE GENERATOR --> 
+        <property name="SI_TAB_TEXT"                             value="Sitio"></property>
+        <property name="SY_TAB_TEXT"                             value="Silaba"></property>
+        <property name="MT_TAB_TEXT"                             value="Horarios de Reuniones"></property>
+        <property name="OH_TAB_TEXT"                             value="Horas de oficina"></property>
+        <property name="SC_TAB_TEXT"                             value="Programar"></property>
+
+        
+        <!-- LANGUAGE-DEPENDENT TEXT FOR OH WORKSPACE CONTROLS -->
+        <property name="OH_TAS_HEADER_LABEL_TEXT"           value="Enseñando asistentes"></property>
+        <property name="OH_ALL_RADIO_BUTTON_TEXT"           value="Todas"></property>
+        <property name="OH_GRAD_RADIO_BUTTON_TEXT"          value="Graduado"></property>  
+        <property name="OH_UNDERGRAD_RADIO_BUTTON_TEXT"     value="De licenciatura"></property>
+        <property name="OH_NAME_TEXT_FIELD_PROMPT_TEXT"     value="Nombre"></property>
+        <property name="OH_EMAIL_TEXT_FIELD_PROMPT_TEXT"    value="Email"></property>    
+        <property name="OH_ADD_TA_BUTTON_TEXT"              value="Agregar TA"></property>
+        <property name="OH_OFFICE_HOURS_HEADER_LABEL_TEXT"  value="Horas de oficina"></property>
+        <property name="OH_OFFICE_HOURS_START_LABEL_TEXT"   value="Hora de inicio: "></property>
+        <property name="OH_OFFICE_HOURS_END_LABEL_TEXT"     value="Hora de finalización: "></property>
+        <property name="OH_NAME_TABLE_COLUMN_TEXT"          value="Nombre"></property>
+        <property name="OH_EMAIL_TABLE_COLUMN_TEXT"         value="Email"></property>
+        <property name="OH_SLOTS_TABLE_COLUMN_TEXT"         value="Ranuras de tiempo"></property>
+        <property name="OH_START_TIME_TABLE_COLUMN_TEXT"    value="Hora de inicio"></property>
+        <property name="OH_END_TIME_TABLE_COLUMN_TEXT"      value="Hora de finalización"></property>
+        <property name="OH_TYPE_TABLE_COLUMN_TEXT"          value="Tipo"></property>
+        <property name="OH_MONDAY_TABLE_COLUMN_TEXT"        value="lunes"></property>
+        <property name="OH_TUESDAY_TABLE_COLUMN_TEXT"       value="martes"></property>
+        <property name="OH_WEDNESDAY_TABLE_COLUMN_TEXT"     value="miércoles"></property>
+        <property name="OH_THURSDAY_TABLE_COLUMN_TEXT"      value="jueves"></property>
+        <property name="OH_FRIDAY_TABLE_COLUMN_TEXT"        value="viernes"></property>
+
+        <!-- ERROR DIALOG -->
+        <property name="OH_NO_TA_SELECTED_TITLE"            value="No TA seleccionado"></property>
+        <property name="OH_NO_TA_SELECTED_CONTENT"          value="Alternar solo es posible si se selecciona TA"></property>
+        
+        <!-- EDIT TA DIALOG -->
+        <property name="OH_TA_DIALOG_HEADER_LABEL_TEXT"             value="Asistente de enseñanza de edición"></property>
+        <property name="OH_TA_DIALOG_NAME_LABEL_TEXT"               value="Nombre: "></property>
+        <property name="OH_TA_DIALOG_EMAIL_LABEL_TEXT"              value="Email: "></property>
+        <property name="OH_TA_DIALOG_TYPE_LABEL_TEXT"               value="Tipo: "></property>
+        <property name="OH_TA_DIALOG_GRAD_RADIO_BUTTON_TEXT"        value="Graduado"></property>
+        <property name="OH_TA_DIALOG_UNDERGRAD_RADIO_BUTTON_TEXT"   value="De licenciatura"></property>
+        <property name="OH_TA_DIALOG_OK_BUTTON_TEXT"                value="De acuerdo"></property>
+        <property name="OH_TA_DIALOG_CANCEL_BUTTON_TEXT"            value="Cancelar"></property>
+
+        <!-- TEXT FOR SCHEDULE TAB -->
+        <property name="SC_CALENDER_LABEL_TEXT"                  value="Límites del calendario"></property>
+        <property name="SC_START_DATE_TEXT"                      value="A partir del lunes: "></property>
+        <property name="SC_END_DATE_TEXT"                        value="Terminando el viernes: "></property>
+        <property name="SC_SCHEDULE_LABEL_TEXT"                  value="Programar Artículos"></property>
+        <property name="SC_TYPE_TABLE_COLUMN_TEXT"               value="Tipo"></property>
+        <property name="SC_DATE_TABLE_COLUMN_TEXT"               value="Fecha"></property>
+        <property name="SC_TITLE_TABLE_COLUMN_TEXT"              value="Título"></property>
+        <property name="SC_TOPIC_TABLE_COLUMN_TEXT"              value="Tema"></property>
+        <property name="SC_ADD_LABEL_TEXT"                       value="Añadir / Editar"></property>
+        <property name="SC_TYPE_LABEL_TEXT"                      value="Tipo: "></property>
+        <property name="SC_DATE_LABEL_TEXT"                      value="Fecha: "></property>
+        <property name="SC_TITLE_LABEL_TEXT"                     value="Título: "></property>
+        <property name="SC_TOPIC_LABEL_TEXT"                     value="Tema: "></property>
+        <property name="SC_LINK_LABEL_TEXT"                      value="Enlazar: "></property>
+        <property name="SC_ADD_BUTTON_TEXT"                      value="Añadir / Actualizar"></property>
+        <property name="SC_CLEAR_BUTTON_TEXT"                    value="Claro"></property>
+        
+        <property name="DEFAULT_FAV"                             value="SBUShield.JPG"></property>
+        <property name="DEFAULT_NAV"                             value="SBUDarkRedShieldLogo.JPG"></property>        
+        <property name="DEFAULT_LEFT"                             value="SBUCSLogo.JPG"></property>                
+        <property name="DEFAULT_RIGHT"                             value="SBUWhiteShieldLogo.JPG"></property>
+        
+        <!-- TO SWITCH BACK TO ANOTHER LANGUAGE -->
+        <property name="LANGUAGE_DIALOG_TITLE"          value="Selección del idioma de la aplicación"></property>
+        <property name="LANGUAGE_DIALOG_HEADER_TEXT"    value="Elija un idioma"></property>
+        <property name="LANGUAGE_DIALOG_CONTENT_TEXT"   value="Seleccione un idioma para la interfaz de usuario."></property>
+
+        <property name="WORK_FILE_EXT"          value="*.ta"></property>
+        <property name="WORK_FILE_EXT_DESC"     value="Archivos de asistente de enseñanza"></property>
+        
+        <property name="IMAGE_FILE_EXT"          value="*.jpg"></property>
+        <property name="IMAGE_FILE_EXT_DESC"     value="JPG file"></property>
+        
+   <!-- COMBO BOX DEFAULTS -->
+        <property name="DEFAULT_SUBJECT"          value="CSE"></property>
+        <property name="DEFAULT_NUMBER"          value="219"></property>
+        <property name="DEFAULT_SEMESTER"          value="Otoño"></property>
+        <property name="DEFAULT_YEAR"          value="2018"></property>
+        
+        <property name="DEFAULT_STYLE"          value="sea_wolf.css"></property>
+        
+        <property name="DEFAULT_START"          value="9:00am"></property>
+        <property name="DEFAULT_END"          value="8:00pm"></property>
+        
+        <property name="DEFAULT_TYPE"          value="Vacaciones"></property>
+        
+        <!-- TDLM COMBO BOX CHOICES -->
+    </property_list>
+    <property_options_list>
+        <property_options name="LANGUAGE_OPTIONS">
+            <option>Inglés</option>
+            <option>Español</option>
+        </property_options>
+        
+        <property_options name="SUBJECT_OPTIONS">
+            <option>CSE</option>
+            <option>AMS</option>
+        </property_options>
+        
+        <property_options name="NUMBER_OPTIONS">
+            <option>219</option>
+            <option>220</option>
+        </property_options>
+        
+        <property_options name="SEMESTER_OPTIONS">
+            <option>Otoño</option>
+            <option>Primavera</option>
+        </property_options>
+        
+        <property_options name="YEAR_OPTIONS">
+            <option>2018</option>
+            <option>2019</option>
+        </property_options>
+        
+        <property_options name="STYLE_OPTIONS">
+            <option>sea_wolf.css</option>
+            <option>halloween.css</option>
+        </property_options>
+        
+        <property_options name="START_OPTIONS">
+            <option>9:00am</option>
+            <option>10:00am</option>
+            <option>11:00am</option>
+            <option>12:00pm</option>
+            <option>1:00pm</option>
+            <option>2:00pm</option>
+            <option>3:00pm</option>
+            <option>4:00pm</option>
+            <option>5:00pm</option>
+            <option>6:00pm</option>
+            <option>7:00pm</option>
+            <option>8:00pm</option>
+        </property_options>
+        
+        <property_options name="END_OPTIONS">
+            <option>9:00am</option>
+            <option>10:00am</option>
+            <option>11:00am</option>
+            <option>12:00pm</option>
+            <option>1:00pm</option>
+            <option>2:00pm</option>
+            <option>3:00pm</option>
+            <option>4:00pm</option>
+            <option>5:00pm</option>
+            <option>6:00pm</option>
+            <option>7:00pm</option>
+            <option>8:00pm</option>
+        </property_options>
+        
+        <property_options name="TYPE_OPTIONS">
+            <option>Vacaciones</option>
+            <option>HW</option>
+            <option>Conferencia</option>
+            <option>Referencia</option>
+            <option>Recitación</option>
+        </property_options>
+    </property_options_list>
+    
+</properties>
