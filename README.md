@@ -1,7 +1,7 @@
 # CourseSiteGenerator
 This application automates the creation of a course website by generating all appropriate HTML, CSS, JavaScript and JSON files for a fully functioning website.
 
-#Features
+# Features
 This application also features a saving/loading feature for all data within the application. 
 An undo/redo feature is also included that allows the user to undo/redo all data modifying events.  
 Support for multiple languages
